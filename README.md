@@ -21,5 +21,7 @@ plotly.io
 
 xgboost
 
+openpyxl
+
 
 # Se recomienda ejecutar todo el notebook para poder ver claramente los graficos creados por la libreria pyplot.
