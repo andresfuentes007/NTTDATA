@@ -1,4 +1,4 @@
-#NTTDATA
+# NTTDATA
 Prueba Técnica NTTDATA
 
 En este proyecto se usarán diferentes librerías relacionadas con análisis descriptivo, machine learning y gráficos, las cuales son las siguientes:
